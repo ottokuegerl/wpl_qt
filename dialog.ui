@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>823</width>
-    <height>528</height>
+    <width>690</width>
+    <height>387</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -89,7 +89,8 @@
         <string>Click Me</string>
        </property>
        <property name="icon">
-        <iconset theme="face-cool"/>
+        <iconset theme="face-cool">
+         <normaloff>.</normaloff>.</iconset>
        </property>
        <property name="iconSize">
         <size>
