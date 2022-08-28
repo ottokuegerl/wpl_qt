@@ -1,5 +1,14 @@
 # Qt creator Ver 6 - samples
 
+
+## modify .gitignore
+### ######################
+### # credentials        #
+### ######################
+### credentials.h
+### credentials.*
+### ######################
+
 ## on local repository
 ### "/home/nuc8/05_development/01_cplusplus/QtProjects/wpl_qt"
 ### git config --global user.name "ottokuegerl"
