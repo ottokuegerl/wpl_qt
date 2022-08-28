@@ -1,3 +1,9 @@
+######################
+# credentials        #
+######################
+credentials.h
+credentials.*
+######################
 # C++ objects and libs
 *.slo
 *.lo
