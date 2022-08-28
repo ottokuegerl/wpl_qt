@@ -1,4 +1,4 @@
-# Qt creatir Ver 6 - samples
+# Qt creator Ver 6 - samples
 
 ## on local repository
 ### "/home/nuc8/05_development/01_cplusplus/QtProjects/wpl_qt"
