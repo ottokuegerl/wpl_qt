@@ -7,5 +7,10 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     Dialog w;
     w.show();
-    return a.exec();
+
+    int value = a.exec();
+
+    qInfo() << "main() return value: " << "---> " << value << " <---";
+
+    return value;
 }
