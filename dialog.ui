@@ -6,12 +6,15 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>690</width>
-    <height>387</height>
+    <width>652</width>
+    <height>390</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string extracomment="WPL app">WPL Age to hour</string>
+  </property>
+  <property name="windowIcon">
+   <iconset theme="face-cool"/>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout">
    <item>

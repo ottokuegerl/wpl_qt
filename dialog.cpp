@@ -43,6 +43,8 @@ void Dialog::on_pushButton_clickme_clicked()
 
     int returnvalue = value * 365 * 24;
 
+    qInfo() << "age in hours: " << returnvalue;
+
     ui->label_age2hours->setText(QString::number(returnvalue));
 
 }

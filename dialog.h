@@ -6,6 +6,7 @@
 #include <QMap>
 
 #include <QtDebug>
+#include <QDebug>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class Dialog; }
